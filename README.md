@@ -23,18 +23,6 @@ using modern frontend and backend technologies.
 
 ---
 
-## 👨‍💻 About Me
-
-- 💻 Full Stack Developer passionate about building real-world applications
-- ⚛️ Working with React.js and JavaScript
-- 🐍 Building backend APIs with Python and FastAPI
-- 🍃 Working with MongoDB
-- 🔐 Interested in authentication, REST APIs and backend development
-- 🚀 Currently improving my full-stack and deployment skills
-- 📚 Always learning and building new projects
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -55,40 +43,6 @@ using modern frontend and backend technologies.
   <img src="https://skillicons.dev/icons?i=mongodb,docker,git,github,linux,vscode" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🏥 Healthcare Appointment Management System
-
-A full-stack healthcare appointment platform connecting patients and doctors.
-
-**Tech:** React.js • JavaScript • Python • FastAPI • MongoDB • JWT
-
-**Features:**
-- 👤 Patient registration & login
-- 👨‍⚕️ Doctor management
-- 📅 Appointment booking
-- 🔐 JWT authentication
-- ✅ Accept / Reject appointments
-- 📊 Appointment status tracking
-- 🌐 Full-stack deployment
-
-🔗 [View Project](https://github.com/AbhishekStack85/healthcare-appointment-system)
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbhishekStack85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekStack85&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -99,25 +53,6 @@ A full-stack healthcare appointment platform connecting patients and doctors.
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekStack85&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AbhishekStack85/AbhishekStack85/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
 
 ## 📫 Connect With Me
 
